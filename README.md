@@ -4,7 +4,7 @@ Backend software engineer (Java)
 
 **Projects**
 
-- [Guitar Shop](链接) — full-stack e-commerce platform · JWT auth · Stripe Checkout w/ webhook verification · CI/CD (GitHub Actions + Docker)
+- [Guitar Shop](仓库链接) ([Live](https://bigjack-guitarshop.vercel.app/)) — full-stack e-commerce platform · JWT auth · Stripe Checkout w/ webhook verification · CI/CD (GitHub Actions + Docker)
 - [Music Review Platform](链接) — full-stack app for rating & reviewing albums
 
 **Stack:** Java · Python · React · PostgreSQL/MongoDB · Docker
