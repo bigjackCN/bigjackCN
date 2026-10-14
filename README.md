@@ -4,9 +4,10 @@ Backend software engineer (Java)
 
 **Projects**
 
+- [ZenNovel](https://github.com/bigjackCN/zennovel) — visual novel maker for writers · React + TypeScript editor with live preview · Electron desktop app · exports to web/itch.io, Windows, Linux and Steam · [play the demo](https://bigjackcn.github.io/zennovel/play/?story=dalie&lang=en)
 - [Guitar Shop](https://bigjack-guitarshop.vercel.app/) — full-stack e-commerce platform · JWT auth · Stripe Checkout w/ webhook verification · CI/CD (GitHub Actions + Docker)
 - [Music Review Platform](https://github.com/bigjackCN/music-review-platform) — full-stack app for rating & reviewing albums
 
-**Stack:** Java · Python · React · PostgreSQL/MongoDB · Docker
+**Stack:** Java · Python · TypeScript · React · Electron · PostgreSQL/MongoDB · Docker
 
 📫 bigjackCN@gmail.com
